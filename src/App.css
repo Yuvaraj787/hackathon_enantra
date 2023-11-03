@@ -1,0 +1,26 @@
+.par-div {
+  /* background-color: #C2D9FF; */
+  background-color: #DFCCFB;
+  height: 100vh;
+  width: 100%;
+}
+.heading {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #363062;
+  font-size: 3rem;
+}
+.head-div {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.input-design {
+  background-color: #fff;
+  font-size: 2rem;
+  width: 11.8rem;
+  color:#363062;
+  margin-left: 10px;
+  border-radius: 9px 7px;
+}
+.sel-div {
+  color:black
+}
